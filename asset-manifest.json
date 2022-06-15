@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/zaverecny-it1/static/css/main.efb7a4c6.css",
+    "main.js": "/zaverecny-it1/static/js/main.51a8c80c.js",
+    "static/media/banner.png": "/zaverecny-it1/static/media/banner.e832c278da9b237b679f.png",
+    "static/media/katowice.jpg": "/zaverecny-it1/static/media/katowice.3d2200e085eb971baf55.jpg",
+    "static/media/smgs.webp": "/zaverecny-it1/static/media/smgs.6fce99b6de08102e6a32.webp",
+    "static/media/sniper.webp": "/zaverecny-it1/static/media/sniper.5a9711a6d2b97b3eb4b0.webp",
+    "static/media/machine.webp": "/zaverecny-it1/static/media/machine.a758cdaf5f7410a4e2bb.webp",
+    "static/media/knife.webp": "/zaverecny-it1/static/media/knife.271b82fe63c09e00edd3.webp",
+    "static/media/shotguns.webp": "/zaverecny-it1/static/media/shotguns.918f785df4fc82e884de.webp",
+    "static/media/assault.webp": "/zaverecny-it1/static/media/assault.6e52e23faf953febd427.webp",
+    "index.html": "/zaverecny-it1/index.html",
+    "main.efb7a4c6.css.map": "/zaverecny-it1/static/css/main.efb7a4c6.css.map",
+    "main.51a8c80c.js.map": "/zaverecny-it1/static/js/main.51a8c80c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb7a4c6.css",
+    "static/js/main.51a8c80c.js"
+  ]
+}
