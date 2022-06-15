@@ -17,13 +17,13 @@ root.render(
     <BrowserRouter>
     <Routes>
         <Route path="%PUBLIC_URL%/" element={<App />}>
-          
+    
           <Route index element={<Home />} />
           <Route path="weapons" element={<Weapons />} />
           <Route path="maps" element={<Maps />} />
           <Route path="quiz" element={<Quiz />} />
           <Route path="katowice" element={<Katowice />} />
-          <Route path="*" element={<NoPage />} />
+          <Route path="*" element={<Home />} />
           
         </Route>
         </Routes>
