@@ -16,7 +16,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
     <Routes>
-        <Route path="/" element={<App />}>
+        <Route path="%PUBLIC_URL%/" element={<App />}>
           
           <Route index element={<Home />} />
           <Route path="weapons" element={<Weapons />} />
