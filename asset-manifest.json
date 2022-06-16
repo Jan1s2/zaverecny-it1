@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zaverecny-it1/static/css/main.efb7a4c6.css",
-    "main.js": "/zaverecny-it1/static/js/main.f16cf44e.js",
+    "main.js": "/zaverecny-it1/static/js/main.18f2d56c.js",
     "static/media/banner.png": "/zaverecny-it1/static/media/banner.e832c278da9b237b679f.png",
     "static/media/katowice.jpg": "/zaverecny-it1/static/media/katowice.3d2200e085eb971baf55.jpg",
     "static/media/smgs.webp": "/zaverecny-it1/static/media/smgs.6fce99b6de08102e6a32.webp",
@@ -12,10 +12,10 @@
     "static/media/assault.webp": "/zaverecny-it1/static/media/assault.6e52e23faf953febd427.webp",
     "index.html": "/zaverecny-it1/index.html",
     "main.efb7a4c6.css.map": "/zaverecny-it1/static/css/main.efb7a4c6.css.map",
-    "main.f16cf44e.js.map": "/zaverecny-it1/static/js/main.f16cf44e.js.map"
+    "main.18f2d56c.js.map": "/zaverecny-it1/static/js/main.18f2d56c.js.map"
   },
   "entrypoints": [
     "static/css/main.efb7a4c6.css",
-    "static/js/main.f16cf44e.js"
+    "static/js/main.18f2d56c.js"
   ]
 }
