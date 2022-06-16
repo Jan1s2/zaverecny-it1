@@ -66,7 +66,10 @@ function App() {
                 <Row className="main">
                 <Outlet />
                 </Row>
-
+                <Row>
+        <hr />
+        <Col lg={12} className="text-muted my-2">&copy; Jan Stránský (<a href="https://github.com/Jan1s2/zaverecny-it1" className="link-secondary">GitHub</a>)</Col>
+        </Row>
             </Container>
         </div>
     );
