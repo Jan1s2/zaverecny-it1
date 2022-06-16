@@ -21,6 +21,8 @@ function App() {
                 <Row>
                     <Navbar expand="lg" bg="secondary">
                         <Container>
+                        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                            <Navbar.Collapse>
                             <Row>
                                 <Col>
                                     <Navbar.Brand>
@@ -59,6 +61,7 @@ function App() {
                                     </LinkContainer>
                                 </Col>
                             </Row>
+                            </Navbar.Collapse>
                         </Container>
 
                     </Navbar>
@@ -68,7 +71,7 @@ function App() {
                 </Row>
                 <Row>
         <hr />
-        <Col lg={12} className="text-muted my-2">&copy; Jan Stránský (<a href="https://github.com/Jan1s2/zaverecny-it1" className="link-secondary">GitHub</a>)</Col>
+        <Col lg={12} className="text-muted p-3">&copy; Jan Stránský (<a href="https://github.com/Jan1s2/zaverecny-it1" className="link-secondary">GitHub</a>)</Col>
         </Row>
             </Container>
         </div>
