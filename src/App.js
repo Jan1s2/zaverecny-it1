@@ -28,17 +28,17 @@ function App() {
                                     </Navbar.Brand>
                                 </Col>
                                 <Col>
-                                    <LinkContainer to="/">
+                                    <LinkContainer to="/zaverecny-it1">
                                         <Button>Domů</Button>
                                     </LinkContainer>
                                 </Col>
                                 <Col>
-                                    <LinkContainer to="/weapons">
+                                    <LinkContainer to="/zaverecny-it1/weapons">
                                         <Button>Zbraně</Button>
                                     </LinkContainer>
                                 </Col>
                                 <Col>
-                                    <LinkContainer to="/maps">
+                                    <LinkContainer to="/zaverecny-it1/maps">
                                         <Button>Mapy</Button>
                                     </LinkContainer>
                                 </Col>
@@ -49,12 +49,12 @@ function App() {
                                 </Col>
     */}
                                 <Col>
-                                    <LinkContainer to="/katowice">
+                                    <LinkContainer to="/zaverecny-it1/katowice">
                                         <Button>Katowice</Button>
                                     </LinkContainer>
                                 </Col>
                                 <Col>
-                                    <LinkContainer to="/quiz">
+                                    <LinkContainer to="/zaverecny-it1/quiz">
                                         <Button>Quiz</Button>
                                     </LinkContainer>
                                 </Col>

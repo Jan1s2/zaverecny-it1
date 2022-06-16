@@ -16,8 +16,16 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
     <Routes>
-        <Route path="%PUBLIC_URL%/" element={<App />}>
-    
+        <Route path="/" element={<App />}>
+          <Route index element={<Home />} />
+          <Route path="weapons" element={<Weapons />} />
+          <Route path="maps" element={<Maps />} />
+          <Route path="quiz" element={<Quiz />} />
+          <Route path="katowice" element={<Katowice />} />
+          <Route path="*" element={<Home />} />
+          
+        </Route>
+        <Route path="/zaverecny-it1/" element={<App />}>
           <Route index element={<Home />} />
           <Route path="weapons" element={<Weapons />} />
           <Route path="maps" element={<Maps />} />
